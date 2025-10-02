@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Bonjour, ici Lohan Marchand
+Étudiant en informatique à l'université de Strasbourg depuis 2024
 <!--
 **Lohan-Marchand/Lohan-Marchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
