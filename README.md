@@ -2,7 +2,7 @@
 Étudiant en informatique (conception et de développement d’application) à l'université de Strasbourg depuis 2024
 
 ## À propos de moi
-* 🚧Je travail sur un jeu sérieux sur Godot qui consiste à régler des problèmes dans une base polaire.
+* 🚧Je travaille sur un jeu sérieux sur Godot qui consiste à régler des problèmes dans une base polaire.
 * 💻J'ai toujours hâte de découvrir développer mes connaissances en programmation et développement
 * 🌌Je suis passionné de série télé, livres et films (SF, Fantaisie, etc...)
 * 🎲J'adore les jeux de rôle et les jeux vidéo
