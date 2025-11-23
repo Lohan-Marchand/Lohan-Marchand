@@ -27,3 +27,13 @@
 #### Bases de données
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Me contacter
+
+[![Gmail](https://img.shields.io/badge/Mail_personnel-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marchandlohan@gmail.com) marchandlohan@gmail.com
+
+[![Gmail](https://img.shields.io/badge/Mail_étudiant-0285FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohan.marchand@etu.unistra.fr) lohan.marchand@etu.unistra.fr
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohan-marchand-70154639a/) lohan-marchand-70154639a
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/828030243020734468) l.axo
